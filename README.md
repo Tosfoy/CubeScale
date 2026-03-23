@@ -8,7 +8,7 @@ Works with both players and entities (horses, striders, etc.), so mounted travel
 
 ## Requirements
 
-- Spigot or Paper 1.20.4+
+- Spigot or Paper 1.20.4+ (Works on 1.21.111)
 - Java 17+
 
 ## Installation
