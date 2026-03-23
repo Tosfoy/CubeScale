@@ -1,0 +1,7 @@
+# CubeScale Configuration
+#
+# ratio - The Nether portal coordinate ratio (Nether:Overworld)
+#   8 = vanilla (1 block in Nether = 8 blocks in Overworld)
+#   2 = 1 block in Nether = 2 blocks in Overworld
+#   1 = 1:1 (coordinates are the same in both dimensions)
+ratio: 8
