@@ -2,7 +2,7 @@
 
 A lightweight Spigot plugin that lets you change the Nether portal coordinate ratio to whatever you want.
 
-By default, Minecraft uses an 8:1 ratio (1 block in the Nether = 8 blocks in the Overworld). CubeScale lets you set this to any value — 2:1, 1:1, or anything else.
+By default, Minecraft uses an 8:1 ratio (1 block in the Nether = 8 blocks in the Overworld). CubeScale lets you set this to any value - 2:1, 1:1, or anything else.
 
 Works with both players and entities (horses, striders, etc.), so mounted travel through portals uses the custom ratio too.
 
